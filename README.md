@@ -1,4 +1,4 @@
-<h1 align="center">🌐 Hello World! I'm Cristhian Vargas Vertiz 🚀</h1>
+<h1 align="center">🌐 Hello World!</h1>
 
 <p align="center">
   Welcome to my GitHub, the playground where creativity meets code! I'm a <strong>Full Stack Developer</strong> and <strong>Data Enthusiast</strong> passionate about turning complex problems into simple, beautiful, and intuitive solutions. From crafting seamless UIs to building robust backends, I thrive at every layer of the tech stack.
@@ -24,6 +24,9 @@
 <p>
   <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/cristhianvargasvertiz">
   <img src="https://camo.githubusercontent.com/bbd5a3be2124528ab2064d49356ed845b5f9a05fc79c603e25c76c6601e28b67/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a> <br>
+
+  <strong>Instagram:</strong> <a href="https://www.instagram.com/cristhianvar09">
+  <img src="https://camo.githubusercontent.com/c8bd82d89314e366e096370c91aa3551ed65626c3da39b485720548d873d241f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f6c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" style="max-width: 100%;"></a>
   
   <strong>Email:</strong> <a href="mailto:cristhianvar09@gmail.com">cristhianvar09@gmail.com</a>
 </p>
