@@ -63,6 +63,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristhianvargasvertiz&layout=compact&theme=radical" alt="Most Used Languages">
 </p>
 
+<h2>🍴 Total Forks</h2>
+<p align="center">
+  <img src="https://img.shields.io/github/forks/cristhianvargasvertiz?label=Forks&style=for-the-badge&logo=github&color=0366d6" alt="Total Forks">
+</p>
+
 <h2>🏆 Total Contributions</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cristhianvargasvertiz&theme=radical" alt="GitHub Streak Stats">
