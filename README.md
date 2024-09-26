@@ -6,13 +6,11 @@
 
 <h2>🧑‍💻 About Me</h2>
 
-<ul padding-left: 20px>
-  <li style= text-indent: -10px, padding-left: 20px; margin-left: 0><strong>💡 Currently Hacking On:</strong> E-commerce web apps, digital marketing projects, data-driven dashboards, automation scripts that make life easier and elevating brands through <strong>MC Social Agency</strong>, my marketing venture.<br><br>
+<ul style="padding-left: 20px;">
+  <li style="text-indent: -10px; padding-left: 20px; margin-left: 0;"><strong>💡 Currently Hacking On:</strong> E-commerce web apps, digital marketing projects, data-driven dashboards, automation scripts that make life easier and elevating brands through <strong><a href="https://www.mcsocialagency.com">MC Social Agency</a></strong>, my marketing venture.<br><br>
     <ul>
-  <li>My Portfolio Web 100% code, this page es SaaS free! 🚫 <a href="https://cristhianvargasvertiz.github.io/Web-Portfolio-Version-1.0/">Web-Portfolio-Version-1.0</a>
-      </li>
-      <li>My latest project involved developing a web app using React ⚛️, creating a landing page tailored for an e-commerce site 🛒. This project showcases my ability to blend modern web technologies 💻 with impactful design 🎨 to enhance user engagement and drive conversions 📈 <a href="https://cristhianvargasvertiz.github.io/e-plantShopping/">E-commerce site</a><br><br>
-      </li>
+      <li>My Portfolio Web 100% code, this page es SaaS free! 🚫 <a href="https://cristhianvargasvertiz.github.io/Web-Portfolio-Version-1.0/">Web-Portfolio-Version-1.0</a></li>
+      <li>My latest project involved developing a web app using React ⚛️, creating a landing page tailored for an e-commerce site 🛒. This project showcases my ability to blend modern web technologies 💻 with impactful design 🎨 to enhance user engagement and drive conversions 📈 <a href="https://cristhianvargasvertiz.github.io/e-plantShopping/">E-commerce site</a><br><br></li>
     </ul>
   </li>
 
@@ -50,6 +48,7 @@
 <ul>
   <li><strong><a href="https://github.com/cristhianvargasvertiz/IBM-Data-Analyst-Capstone-Project">IBM-Data-Analyst-Capstone-Project</a>:</strong> A deep dive into data, where every row tells a story.</li>
   <li><strong><a href="https://github.com/cristhianvargasvertiz/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard">Analyzing-Historical-Stock-Revenue-Data</a>:</strong> From raw data to actionable insights—because numbers never lie.</li>
+  <li><strong>MC Social Agency:</strong> Elevating brands with a touch of digital magic. Follow us on <a href="https://www.instagram.com/mcsocialagency">Instagram</a>.</li>
 </ul>
 
 <h2>🧑‍🚀 GitHub Stats</h2>
