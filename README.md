@@ -7,7 +7,7 @@
 <h2>🧑‍💻 About Me</h2>
 
 <ul padding-left: 20px>
-  <li style= text-indent: -10px, padding-left: 20px; margin-left: 0><strong>💡 Currently Hacking On:</strong> E-commerce web apps, digital marketing projects, data-driven dashboards, and automation scripts that make life easier.<br><br>
+  <li style= text-indent: -10px, padding-left: 20px; margin-left: 0><strong>💡 Currently Hacking On:</strong> E-commerce web apps, digital marketing projects, data-driven dashboards, automation scripts that make life easier and elevating brands through <strong>MC Social Agency</strong>, my marketing venture.<br><br>
     <ul>
   <li>My Portfolio Web 100% code, this page es SaaS free! 🚫 <a href="https://cristhianvargasvertiz.github.io/Web-Portfolio-Version-1.0/">Web-Portfolio-Version-1.0</a>
       </li>
