@@ -7,7 +7,13 @@
 <h2>🧑‍💻 About Me</h2>
 
 <ul>
-  <li><strong>💡 Currently Hacking On:</strong> Web apps, data-driven dashboards, and automation scripts that make life easier.<br>My latest project? 100% code, this page es SaaS free <a href="https://cristhianvargasvertiz.github.io/Web-Portfolio-Version-1.0/">Web-Portfolio-Version-1.0</a>.</li>
+  <li><strong>💡 Currently Hacking On:</strong> Web apps, data-driven dashboards, and automation scripts that make life easier.<br>
+    <ul>
+      <li><strong>My latest project? 100% code, this page es SaaS free</strong><a href="https://cristhianvargasvertiz.github.io/Web-Portfolio-Version-1.0/">Web-Portfolio-Version-1.0</a>.
+      </li>
+    </ul>
+  </li>
+  
   <li><strong>🛠️ Tech Stack:</strong>
     <ul>
       <li><strong>Frontend:</strong> JavaScript, React, HTML5, CSS3, Tailwind CSS</li>
