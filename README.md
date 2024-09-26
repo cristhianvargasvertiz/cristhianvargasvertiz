@@ -41,7 +41,7 @@
 <h2>🛠️ Projects That Define Me</h2>
 <ul>
   <li><strong><a href="https://github.com/cristhianvargasvertiz/IBM-Data-Analyst-Capstone-Project">IBM-Data-Analyst-Capstone-Project</a>:</strong> A deep dive into data, where every row tells a story.</li>
-  <li><strong><a href="https://github.com/cristhianvargasvertiz/Analyzing-Historical-Stock-Revenue-Data">Analyzing-Historical-Stock-Revenue-Data</a>:</strong> From raw data to actionable insights—because numbers never lie.</li>
+  <li><strong><a href="https://github.com/cristhianvargasvertiz/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard">Analyzing-Historical-Stock-Revenue-Data</a>:</strong> From raw data to actionable insights—because numbers never lie.</li>
 </ul>
 
 <h2>🧑‍🚀 GitHub Stats</h2>
