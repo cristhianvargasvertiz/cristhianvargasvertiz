@@ -57,6 +57,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cristhianvargasvertiz&show_icons=true&theme=radical" alt="Cristhian's GitHub stats">
 </p>
 
+<h2>🖥️ Most Used Languages</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristhianvargasvertiz&layout=compact&theme=radical" alt="Most Used Languages">
+</p>
+
+<h2>🏆 Total Contributions</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cristhianvargasvertiz&theme=radical" alt="GitHub Streak Stats">
+</p>
+
 <hr>
 
 <p align="center">
