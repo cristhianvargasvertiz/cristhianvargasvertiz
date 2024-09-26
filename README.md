@@ -1,4 +1,4 @@
-<h1 align="center">🌐 Hello World!</h1>
+<h1 align="center">🌐 Hello World! 🌐</h1>
 
 <p align="center">
   Welcome to my GitHub, the playground where creativity meets code! I'm a <strong>Full Stack Developer</strong> and <strong>Data Enthusiast</strong> passionate about turning complex problems into simple, beautiful, and intuitive solutions. From crafting seamless UIs to building robust backends, I thrive at every layer of the tech stack.
@@ -9,7 +9,7 @@
 <ul>
   <li><strong>💡 Currently Hacking On:</strong> Web apps, data-driven dashboards, and automation scripts that make life easier.<br>
     <ul>
-      <li><strong>My latest project? 100% code, this page es SaaS free</strong><a href="https://cristhianvargasvertiz.github.io/Web-Portfolio-Version-1.0/">Web-Portfolio-Version-1.0</a>.
+      <li>My latest project? 100% code, this page es SaaS free <a href="https://cristhianvargasvertiz.github.io/Web-Portfolio-Version-1.0/">Web-Portfolio-Version-1.0</a>
       </li>
     </ul>
   </li>
