@@ -8,10 +8,7 @@
 
 <ul padding-left: 20px>
   <li style= text-indent: -10px, padding-left: 20px; margin-left: 0><strong>💡 Currently Hacking On:</strong> E-commerce web apps, digital marketing projects, data-driven dashboards, and automation scripts that make life easier.<br>
-<ul>
-  <li><strong>💡 Currently Hacking On:</strong> E-commerce web apps, digital marketing projects, data-driven dashboards, and automation scripts that make life easier.<br>
-    <ul>
-      <li>My Portfolio Web 100% code, this page es SaaS free! 🚫 <a href="https://cristhianvargasvertiz.github.io/Web-Portfolio-Version-1.0/">Web-Portfolio-Version-1.0</a>
+  <li>My Portfolio Web 100% code, this page es SaaS free! 🚫 <a href="https://cristhianvargasvertiz.github.io/Web-Portfolio-Version-1.0/">Web-Portfolio-Version-1.0</a>
       </li>
       <li>My latest project involved developing a web app using React ⚛️, creating a landing page tailored for an e-commerce site 🛒. This project showcases my ability to blend modern web technologies 💻 with impactful design 🎨 to enhance user engagement and drive conversions 📈 <a href="https://cristhianvargasvertiz.github.io/e-plantShopping/">E-commerce site</a>
       </li>
