@@ -7,7 +7,7 @@
 <h2>🧑‍💻 About Me</h2>
 
 <ul padding-left: 20px>
-  <li style= text-indent: -10px, padding-left: 20px; margin-left: 0><strong>💡 Currently Hacking On:</strong> E-commerce web apps, digital marketing projects, data-driven dashboards, and automation scripts that make life easier.<br>
+  <li style= text-indent: -10px, padding-left: 20px; margin-left: 0><strong>💡 Currently Hacking On:</strong> E-commerce web apps, digital marketing projects, data-driven dashboards, and automation scripts that make life easier.<br><br>
     <ul>
   <li>My Portfolio Web 100% code, this page es SaaS free! 🚫 <a href="https://cristhianvargasvertiz.github.io/Web-Portfolio-Version-1.0/">Web-Portfolio-Version-1.0</a>
       </li>
@@ -16,15 +16,15 @@
     </ul>
   </li>
 
-  <li><strong>🛠️ Tech Stack:</strong>
+  <li><strong>🛠️ Tech Stack:</strong><br><br>
     <ul>
       <li><strong>Frontend:</strong> JavaScript, React, HTML5, CSS3, Tailwind CSS</li>
       <li><strong>Backend:</strong> Node.js, Express, REST APIs</li>
       <li><strong>Data:</strong> Python, SQL, Pandas, Jupyter Notebooks</li>
       <li><strong>Tools:</strong> Git, GitHub, VS Code</li>
     </ul>
-  </li>
-  <li><strong>🌱 Currently Learning:</strong> Diving deeper into Data Science, Machine Learning, and mastering advanced React patterns.</li>
+  </li><br><br>
+  <li><strong>🌱 Currently Learning:</strong> Diving deeper into Data Science, Machine Learning, and mastering advanced React patterns.</li><br><br>
   <li><strong>🎯 Goal:</strong> To bridge the gap between development and data, creating applications that are not only functional but insightful.</li>
 </ul>
 
