@@ -11,7 +11,7 @@
     <ul>
       <li>My Portfolio Web 100% code, this page es SaaS free! 🚫 <a href="https://cristhianvargasvertiz.github.io/Web-Portfolio-Version-1.0/">Web-Portfolio-Version-1.0</a>
       </li>
-      <li>My latest project involved developing a web app using React ⚛️, creating a landing page tailored for an e-commerce site 🛒. This project showcases my ability to blend modern web technologies 💻 with impactful design 🎨 to enhance user engagement and drive conversions 📈 <a href="https://cristhianvargasvertiz.github.io/e-plantShopping/">Web-Portfolio-Version-1.0</a>
+      <li>My latest project involved developing a web app using React ⚛️, creating a landing page tailored for an e-commerce site 🛒. This project showcases my ability to blend modern web technologies 💻 with impactful design 🎨 to enhance user engagement and drive conversions 📈 <a href="https://cristhianvargasvertiz.github.io/e-plantShopping/">E-commerce site</a>
       </li>
     </ul>
   </li>
