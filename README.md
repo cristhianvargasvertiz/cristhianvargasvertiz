@@ -11,20 +11,20 @@
     <ul>
   <li>My Portfolio Web 100% code, this page es SaaS free! 🚫 <a href="https://cristhianvargasvertiz.github.io/Web-Portfolio-Version-1.0/">Web-Portfolio-Version-1.0</a>
       </li>
-      <li>My latest project involved developing a web app using React ⚛️, creating a landing page tailored for an e-commerce site 🛒. This project showcases my ability to blend modern web technologies 💻 with impactful design 🎨 to enhance user engagement and drive conversions 📈 <a href="https://cristhianvargasvertiz.github.io/e-plantShopping/">E-commerce site</a>
+      <li>My latest project involved developing a web app using React ⚛️, creating a landing page tailored for an e-commerce site 🛒. This project showcases my ability to blend modern web technologies 💻 with impactful design 🎨 to enhance user engagement and drive conversions 📈 <a href="https://cristhianvargasvertiz.github.io/e-plantShopping/">E-commerce site</a><br>
       </li>
     </ul>
   </li>
 
-  <li><strong>🛠️ Tech Stack:</strong><br><br>
+  <li><strong>🛠️ Tech Stack:</strong><br>
     <ul>
       <li><strong>Frontend:</strong> JavaScript, React, HTML5, CSS3, Tailwind CSS</li>
       <li><strong>Backend:</strong> Node.js, Express, REST APIs</li>
       <li><strong>Data:</strong> Python, SQL, Pandas, Jupyter Notebooks</li>
       <li><strong>Tools:</strong> Git, GitHub, VS Code</li>
     </ul>
-  </li><br><br>
-  <li><strong>🌱 Currently Learning:</strong> Diving deeper into Data Science, Machine Learning, and mastering advanced React patterns.</li><br><br>
+  </li><br>
+  <li><strong>🌱 Currently Learning:</strong> Diving deeper into Data Science, Machine Learning, and mastering advanced React patterns.</li><br>
   <li><strong>🎯 Goal:</strong> To bridge the gap between development and data, creating applications that are not only functional but insightful.</li>
 </ul>
 
